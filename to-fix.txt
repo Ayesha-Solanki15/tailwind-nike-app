@@ -1,0 +1,2 @@
+1. Fix the navlinks and make them workable.
+2. Make the hamburger menu workable.
